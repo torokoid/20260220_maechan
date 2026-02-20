@@ -265,7 +265,7 @@ p.note { display: none; }
 
 <br>
 <h2><span class="yellow">日没後に雷が鳴って雨の夜になったので星空は無し<br>星空アプリでいつもみている方向の画像撮りました<br>カノープスだけ図示</span></h2>
-<a href="20260220_041.png" target="_blank"><img src="20260220_041.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260220_041.PNG" target="_blank"><img src="20260220_041.PNG" alt="サンプル画像" class="responsive-media"></a>
 <!--
 <h2><span class="yellow">写真は星空全体で見ると、だいたいこの部分</span></h2>
 <a href="20260219_037.PNG" target="_blank"><img src="20260219_037.PNG" alt="サンプル画像" class="responsive-media"></a>
