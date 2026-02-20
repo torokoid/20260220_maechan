@@ -268,7 +268,7 @@ p.note { display: none; }
 <a href="20260220_041.png" target="_blank"><img src="20260220_041.png" alt="サンプル画像" class="responsive-media"></a>
 <!--
 <h2><span class="yellow">写真は星空全体で見ると、だいたいこの部分</span></h2>
-<a href="20260219_037.png" target="_blank"><img src="20260219_037.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260219_037.PNG" target="_blank"><img src="20260219_037.PNG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">今回はカノープスの写真は無し</span></h2>
 -->
